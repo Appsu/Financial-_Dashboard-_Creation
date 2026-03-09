@@ -1,2 +1,4 @@
-# Financial-_Dashboard-_Creation
-Power BI dashboard
+This project focused on creating an interactive financial dashboard using Power BI for The Finance Group. The goal was to help stakeholders monitor the company’s financial performance, profitability, and cash flow through an easy-to-understand visual dashboard.The dashboard integrates multiple financial datasets such as Profit & Loss statements, Cash Flow data, Sales data, Budget vs Actuals, and Receivables/Payables aging, enabling management to track key financial KPIs on a monthly basis.The dashboard allows users to filter data by date range, region, product/service, and other business metrics, helping decision-makers analyze financial trends and make informed business decisions.
+Tools and Technologies Used - Power BI,Power Query for data cleaning and transformation,DAX, Excel
+Challenges Faced - Data Integration, Data Consistency,Complex KPI Calculations,Dashboard Usability
+Recommendations - Focus on High-Performing Regions,Optimize cash inflows and reduce delayed receivables,Monitor operating expenses to improve profit margins.
